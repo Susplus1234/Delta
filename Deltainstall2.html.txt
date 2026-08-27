@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Installing App...</title>
+    <script>
+        window.onload = function() {
+            window.location.href = "itms-services://?action=download-manifest&url=https://server.appsonair.com/plist-details/plist/manifest-PD4CzGO_duLp6aGklhwrX.plist";
+        };
+    </script>
+</head>
+<body>
+</body>
+</html>
